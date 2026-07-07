@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Exports
+*.mp4
+*.mov
+*.avi
+
+# Large media assets
+*.psd
+*.aep
+*.prproj
+
+# Temporary
+/tmp/
+*.tmp
